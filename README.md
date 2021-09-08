@@ -38,3 +38,11 @@ Following table describes about food/drinks. My personal choice would be Chicken
 | Red Bull                  |   Walmart    |   $1.00   |
 | Thin crust pizza          |   Pizzahut   |   $10.00  |
 | Coke                      |   Mc Donalds |   $7.99   |
+
+***
+
+# My Favorite Quotes
+
+> Never trouble troublw till trouble troubles you - *Bruce Lee*
+
+> I want to be somebody. I mean I AM somebody, I just want to be a RICH somebody - *Octavia St. Laurent*
