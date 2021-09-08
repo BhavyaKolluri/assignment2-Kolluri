@@ -25,4 +25,4 @@ Hyderabad is a historical place with all **Beautiful Monuments**. I lived in Hyd
 * Pizza
 * coke
 
-**[Link to AboutMe.md file](https://github.com/BhavyaKolluri/assignment2-Kolluri/blob/main/AboutMe.md)**
+**[Link to AboutMe.md file](AboutMe.md)**
